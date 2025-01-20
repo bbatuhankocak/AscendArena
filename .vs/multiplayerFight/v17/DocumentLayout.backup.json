@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbatu\\multiplayerFight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|C:\\Users\\bbatu\\multiplayerFight\\assets\\_scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|C:\\Users\\bbatu\\multiplayerFight\\assets\\_scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|c:\\users\\bbatu\\multiplayerfight\\assets\\_scripts\\player\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|C:\\Users\\bbatu\\multiplayerFight\\assets\\_scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|c:\\users\\bbatu\\multiplayerfight\\assets\\_scripts\\player\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|c:\\users\\bbatu\\multiplayerfight\\assets\\_scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|C:\\Users\\bbatu\\multiplayerFight\\assets\\_scripts\\player\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerwallslidestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|C:\\Users\\bbatu\\multiplayerFight\\assets\\_scripts\\player\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855EBA91-BD00-CA5E-03BE-654FB2F3D058}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:26:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerJumpState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerJumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:20:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAirState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerAirState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerAirState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerAirState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerAirState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:21:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerWallSlideState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerWallSlideState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerWallSlideState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerWallSlideState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerWallSlideState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:24:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:18:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:02:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:24:46.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerMoveState.cs",
+              "ToolTip": "C:\\Users\\bbatu\\multiplayerFight\\Assets\\_Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:19:09.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
